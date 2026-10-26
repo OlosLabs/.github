@@ -28,7 +28,7 @@ Projects operating under the Olos Labs umbrella adhere to three architectural ru
 1. **Domain Autonomy:** Each initiative ships under its own identity, product brand, and repository without artificial naming constraints.
 2. **Shared Foundation:** Systems share common deployment standards, security baselines, and core infrastructure pipelines.
 3. **Attribution:** Shipped products identify lineage via standard attribution:  
-   
+   `A Product of Olos Labs`
 
 ---
 
