@@ -1,39 +1,45 @@
 # Olos Labs
 
-Independent technology lab and parent entity building software products, autonomous systems, and digital infrastructure.
+An independent technology lab and holding entity engineering specialized software products, autonomous systems, and digital infrastructure.
 
-Website: https://oloslabs.com  
-Entity: Olos Labs / Olos Group  
-
----
-
-## 1. Identity & Origin
-
-* **Root (ὅλος / holos):** Derived from classical Greek, meaning *whole, complete, entire*. Represents an integrated ecosystem where infrastructure, automation, and end products operate as a cohesive unit.
-* **The Anagram:** Formed from *SOLO*—acknowledging the foundation of an autonomous builder scaling an engineering studio into a multi-product venture.
+[oloslabs.com](https://oloslabs.com)
 
 ---
 
-## 2. Core Pillars
+### Domains
 
-Olos Labs operates as an umbrella entity across three technical domains:
+Olos Labs structures its engineering initiatives across three focus areas:
 
-1. **Digital Products & Platforms**  
-   Web applications, standalone SaaS, and developer utilities built for specific consumer and business use cases.
+* **Products & Platforms**  
+  Targeted web applications, standalone utilities, and developer-facing software designed to solve specific operational problems.
 
-2. **Autonomous Systems & Automation**  
-   Background automation pipelines, intelligent agent workflows, and backend daemons designed for high-uptime execution.
+* **Autonomous Systems**  
+  Background execution engines, intelligent automation pipelines, and resilient backend daemons built for continuous operation.
 
-3. **Security & Protocol Research**  
-   Adversarial testing, application security auditing, bug bounty tooling, and Web3 / smart-contract systems.
+* **Security & Infrastructure**  
+  Offensive and defensive systems research, vulnerability assessment, smart-contract auditing, and distributed node management.
 
 ---
 
-## 3. Product Architecture
+### Structure & Standards
 
-Every initiative under Olos Labs follows a unified operational standard:
+Projects operating under the Olos Labs umbrella adhere to three architectural rules:
 
-* **Independent Identity:** Each product carries its own brand, repository, and domain. Products are built to solve a single problem well, without being forced into an umbrella naming scheme.
-* **Attribution:** All active projects state their lineage via standard footer attribution:  
-  `A Product of Olos Labs` or `Powered by Olos Labs`.
-* **Shared Infrastructure:** Products remain modular on the frontend, but leverage unified backend resources—shared deployment pipelines, security policies, and server infrastructure.
+1. **Domain Autonomy:** Each initiative ships under its own identity, product brand, and repository without artificial naming constraints.
+2. **Shared Foundation:** Systems share common deployment standards, security baselines, and core infrastructure pipelines.
+3. **Attribution:** Shipped products identify lineage via standard attribution:  
+   
+
+---
+
+### Background
+
+* **Name:** Derived from the Greek *hólos* (ὅλος), meaning complete or integrated—reflecting an ecosystem built end-to-end from infrastructure to user application.
+* **Origin:** Structured from an autonomous engineering foundation into a multi-product studio model.
+
+---
+
+### Contact
+
+* Security & Inquiries: [contact@oloslabs.com](mailto:contact@oloslabs.com)
+* Web: [https://oloslabs.com](https://oloslabs.com)
