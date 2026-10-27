@@ -1,8 +1,16 @@
-# Olos Labs
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OlosLabs/.github/main/assets/oloslabs-logo-cropped-v1-2026-10-27.png" alt="Olos Labs" width="140" />
+</p>
 
-An independent technology lab and holding entity engineering specialized software products, autonomous systems, and digital infrastructure.
+<h1 align="center">Olos Labs</h1>
 
-[oloslabs.com](https://oloslabs.com)
+<p align="center">
+  An independent technology lab and holding entity engineering specialized software products, autonomous systems, and digital infrastructure.
+</p>
+
+<p align="center">
+  <a href="https://oloslabs.com">oloslabs.com</a>
+</p>
 
 ---
 
@@ -28,7 +36,7 @@ Projects operating under the Olos Labs umbrella adhere to three architectural ru
 1. **Domain Autonomy:** Each initiative ships under its own identity, product brand, and repository without artificial naming constraints.
 2. **Shared Foundation:** Systems share common deployment standards, security baselines, and core infrastructure pipelines.
 3. **Attribution:** Shipped products identify lineage via standard attribution:  
-   `A Product of Olos Labs`
+   
 
 ---
 
