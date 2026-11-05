@@ -5,71 +5,56 @@
 <h1 align="center">Olos Labs</h1>
 
 <p align="center">
-  An independent technology lab and holding entity engineering specialized software products, autonomous systems, and digital infrastructure.
+  An independent technology lab engineering autonomous systems, security tooling, and digital infrastructure.
 </p>
 
 <p align="center">
-  <a href="https://oloslabs.com">oloslabs.com</a>
+  <a href="https://oloslabs.com">Website</a> ·
+  <a href="https://x.com/oloslabs">X</a> ·
+  <a href="https://t.me/oloslabs">Telegram</a> ·
+  <a href="mailto:contact@oloslabs.com">Contact</a>
 </p>
 
 ---
 
-### Domains
+> Olos Labs builds focused software, automation that keeps running, and the security and infrastructure underneath both. Every product ships under its own name, on a shared foundation.
 
-Olos Labs structures its engineering initiatives across three focus areas:
+## Focus areas
 
-* **Products & Platforms**  
-  Targeted web applications, standalone utilities, and developer-facing software designed to solve specific operational problems.
+| Products & Platforms | Autonomous Systems | Security & Infrastructure |
+|---|---|---|
+| Web applications<br />Standalone utilities<br />Developer-facing software | Background execution engines<br />Intelligent automation pipelines<br />Resilient backend daemons | Offensive and defensive systems research<br />Vulnerability assessment<br />Smart-contract auditing<br />Distributed node management |
 
-* **Autonomous Systems**  
-  Background execution engines, intelligent automation pipelines, and resilient backend daemons built for continuous operation.
+## How we work
 
-* **Security & Infrastructure**  
-  Offensive and defensive systems research, vulnerability assessment, smart-contract auditing, and distributed node management.
+- **Independent products.** Each initiative ships under its own identity, product brand, and repository, with no artificial naming constraints.
+- **One foundation.** Systems share deployment standards, security baselines, and core infrastructure pipelines.
+- **Built for continuous operation.** Autonomous systems are designed to run, recover, and keep running.
+- **Traceable lineage.** Shipped products carry the notice `Copyright (c) 2026 Olos Labs`.
 
----
+## Projects
 
-### Structure & Standards
+Products are released as separate repositories under this organization. Browse them in [repositories](https://github.com/orgs/OlosLabs/repositories).
 
-Projects operating under the Olos Labs umbrella adhere to three architectural rules:
+<!--
+When the first projects are public, replace the paragraph above with a table:
 
-1. **Domain Autonomy:** Each initiative ships under its own identity, product brand, and repository without artificial naming constraints.
-2. **Shared Foundation:** Systems share common deployment standards, security baselines, and core infrastructure pipelines.
-3. **Attribution:** Shipped products identify lineage via standard attribution:  
-   `Copyright (c) 2026 Olos Labs`
+| Project | Area | Description |
+|---|---|---|
+| [name](https://github.com/OlosLabs/name) | Autonomous Systems | One-line description |
+-->
 
----
+## Security and contact
 
-### Origin
+- **Vulnerability reports and security inquiries:** [contact@oloslabs.com](mailto:contact@oloslabs.com)
+- **Collaboration and other inquiries:** [contact@oloslabs.com](mailto:contact@oloslabs.com)
 
-#### 1. The Name: From Solo to Olos
-The original name was going to be **Solo Labs**.
+## About
 
-Why *Solo*? Because from day one, everything was built around independent execution—all the code, security research, and projects were done alone (*solo*). Even if it eventually grows into a team or a larger ecosystem, the foundation stays rooted in that solo builder mindset.
-
-When it came time to grab the `.com` domain, `sololabs.com` was already taken.
-
-Instead of overthinking it or adding random words, the fix was simple: **flip SOLO into OLOS**. That became **`oloslabs.com`**. Straightforward, no hidden meaning, just Solo backwards.
-
-#### 2. The Idea Behind the Logo
-When drafting the logo, there wasn't a clear direction at first. After messing around with letterforms, this layout clicked:
-
-1. **A Sideways Capital S:** Tilted horizontally to form the outer frame.
-2. **A Lowercase l in the Middle:** Connects the two curves of the S, naturally making it look like a pair of **glasses**.
-3. **Two O's Inside:** Placed inside each loop.
-
-Looking back at it: *"Wait, I wear glasses and my eyes are naturally squinted. This actually fits."*
-* The two O's are like squinted eyes focused through the lenses.
-* The text **`LABS`** sits centered right underneath, finishing off the silhouette like a nose and mouth.
-
-To anyone else, it looks like a clean tech mark or an infinity loop. But the real story: it's just a **minimalist geometric sketch of my own face wearing glasses**.
-
-#### 3. Moving Forward
-Started as self-driven solo projects, but structured as a flexible umbrella holding that's ready to back a team or a wider ecosystem whenever the time comes.
+Olos Labs started as a one-person lab and was going to be called Solo Labs. `sololabs.com` was taken, so Solo became Olos: just Solo, backwards. The full story, including the idea behind the logo, is at [oloslabs.com](https://oloslabs.com).
 
 ---
 
-### Contact
-
-* Security & Inquiries: [contact@oloslabs.com](mailto:contact@oloslabs.com)
-* Web: [https://oloslabs.com](https://oloslabs.com)
+<p align="center">
+  <sub>Copyright (c) 2026 Olos Labs · Indonesia</sub>
+</p>
